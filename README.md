@@ -74,8 +74,6 @@ php artisan key:generate
 php artisan migrate
 ```
 
-> Optional: Add seeders if needed.
-
 ### 6️⃣ Start the Server
 
 ```
